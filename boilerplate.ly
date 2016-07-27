@@ -13,6 +13,7 @@
 \paper {
     annotatespacing = False
     ragged-bottom = ##t
+    ragged-last = ##f
 }
 \layout {
   \context {
