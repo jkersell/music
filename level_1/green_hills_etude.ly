@@ -21,7 +21,7 @@
     % 2nd part
 
     \repeat volta 2 {
-      \grg c8 d8 A4 \grg A4
+      \grg c8 e8 A4 \grg A4
       \grf g8[ f8] \grg f8[ e8] \gra e4
       \grg e8 f8 \grg e4 \gra e8 d8
       \grg c8 d8 \grg e4 \gra e4
