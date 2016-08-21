@@ -360,6 +360,29 @@
 \score {
   {
     \bagpipeKey
+    \time 3/4
+
+    % strikes
+
+    \repeat volta 2 {
+      b8[ \grG b8] c8[ \grG c8] d8 \grG d8
+      e8[ \gra e8] f8[ \gre f8] g8 \grf g8
+      A8[ \grg A8] g8[ \grf g8] f8 \gre f8
+      e8[ \gra e8] d8[ \grG d8] c8 \grG c8
+    }
+  }
+
+  \header {
+    meter = "Exercise"
+    title = "Strikes"
+  }
+}
+
+\pageBreak
+
+\score {
+  {
+    \bagpipeKey
     \time 6/8
 
     % F strikes
@@ -378,7 +401,6 @@
   }
 }
 
-\pageBreak
 \score {
   {
     \bagpipeKey
