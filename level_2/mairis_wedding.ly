@@ -1,6 +1,6 @@
 \version "2.18.2"
 
-\include "boilerplate.ly"
+\include "../boilerplate.ly"
 
 \score {
 
