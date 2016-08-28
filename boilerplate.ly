@@ -3,7 +3,7 @@
 #(ly:set-option 'point-and-click #f)
 
 #(set-global-staff-size 16)
-#(set-default-paper-size "a4" 'portrait)
+#(set-default-paper-size "letter" 'portrait)
 
 \include "bagpipe_new.ly"
 \include "bagpipe_extra.ly"
