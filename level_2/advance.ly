@@ -1,6 +1,7 @@
 ﻿\version "2.18.2"
 
 \include "../boilerplate.ly"
+\include "../constants.ly"
 
 \score {
 
@@ -17,6 +18,6 @@
   \header {
     meter = "March"
     title = "Advance (Scotland the Brave)"
-    arranger = "arr. Maj. A.M. Cairns"
+    arranger = #(string-append "arr. " cairns)
   }
 }

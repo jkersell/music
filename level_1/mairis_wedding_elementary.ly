@@ -1,6 +1,7 @@
 ﻿\version "2.18.2"
 
 \include "../boilerplate.ly"
+\include "../constants.ly"
 
 \score {
 
@@ -53,6 +54,6 @@
     meter = "March"
     title = "Mairi's Wedding Etude"
     composer = "Traditional"
-    arranger = "arr. Maj A.M. Cairns MMM CD"
+    arranger = #(string-append "arr. " cairns)
   }
 }

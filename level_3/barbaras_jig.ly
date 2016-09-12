@@ -1,6 +1,7 @@
 ﻿\version "2.18.2"
 
 \include "../boilerplate.ly"
+\include "../constants.ly"
 
 a_phrase = {
   \thrwd d4. \dblA A4.
@@ -56,6 +57,6 @@ d_phrase = {
     meter = "Jig"
     title = "Barbara's Jig"
     composer = "Traditional"
-    arranger = "arr. A.M. Cairns MMM CD"
+    arranger = #(string-append "arr. " cairns)
   }
 }
