@@ -26,7 +26,7 @@
       {
         \dble e8. c16 \grd a8 \wbirl a4.
       }{
-        \dble e8. c16 \grd a8 \wbirl a4 b8
+        \dble e8. c16 \grd a8 \wbirl a4 b8 \bar "||"
         \break
       }
     }
