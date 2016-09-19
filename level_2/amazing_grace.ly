@@ -44,6 +44,6 @@
     meter = "Hymn"
     title = "Amazing Grace"
     composer = "Traditional"
-    arranger = "arr. D. Brown"
+    arranger = "arr. P/S D. Brown"
   }
 }
