@@ -10,10 +10,12 @@
 \pageBreak
 \include "../level_2/steamboat.ly"
 \include "going_home.ly"
+\pageBreak
 \include "lochaber_no_more.ly"
 \include "../level_2/amazing_grace.ly"
 \include "../level_2/advance.ly"
 \include "vice_regal.ly"
 \include "keel_row.ly"
+\pageBreak
 \include "high_road_to_linton.ly"
 \include "barbaras_jig.ly"
