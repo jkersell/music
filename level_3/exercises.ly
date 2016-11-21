@@ -76,7 +76,7 @@
     \repeat volta 2 {
       G8 e8 G8 e8
       G8 f8 G8 f8
-      g8 g8 G8 g8
+      G8 g8 G8 g8
       G8 A8 G8 A8
     }
   }
@@ -203,13 +203,13 @@
     \time 2/4
 
     \repeat volta 2 {
-      \dblc c8 \grd a8 \dblc c8 \grd a8
-      \dblb b8 \grd G8 \dblb b8 \grg G8
+      \dblc c8 \gre a8 \dblc c8 \gre a8
+      \dblb b8 \gre G8 \dblb b8 \gre G8
     }
 
     \repeat volta 2 {
-      \dblc c16 \grd a8. \dblc c16 \grd a8.
-      \dblb b16 \grd G8. \dblb b16 \grd G8.
+      \dblc c16 \gre a8. \dblc c16 \gre a8.
+      \dblb b16 \gre G8. \dblb b16 \gre G8.
     }
   }
 
@@ -253,7 +253,7 @@
       \grg g8[ \hdblG G8] \gre a4
     }
     \repeat unfold 2 {
-      \grg A8[ \hdblG G8] \gre a4
+      A8[ \hdblG G8] \gre a4
     }
   }
 
