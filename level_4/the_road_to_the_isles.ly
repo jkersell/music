@@ -40,7 +40,7 @@ line = {
       \dblA A16.[ a32 \gbirl a8] \dblf f16.[ a32 \gbirl a8]
       \thrwd d16. e32 \grg d16. c32 \dblb b8 \grg d16. c32
       \grg b32 \grd G16. \grg b16. c32 \thrwd d16.[ e32 \grg f32 A16.]
-      \hdble e4[ \gra e8
+      \hdble e4 \gra e8[
     }
     \alternative {
       {
