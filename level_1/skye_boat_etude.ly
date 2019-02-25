@@ -10,7 +10,7 @@
 
     \grg a8. b16 a8 d8. c16 d8
     \grg e8. f16 \grg e8 A4.
-    f8. e16 f8 \grg b4.
+    f8. e16 f8 \grg b4 \grG b8
     \grg a4. \grG a4. \bar "|."
   }
 

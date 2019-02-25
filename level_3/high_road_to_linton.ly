@@ -13,7 +13,7 @@
 
     \repeat volta 2 {
       \grg c16 e8. \gra e8. f16 \dblA A4~ A8. e16
-      \dblg g4 f16 e8. \dblA A4 c16 \grd a8.
+      \dblg g4 f16 \grg e8. \dblA A4 c16 \grd a8.
       \grg c16 e8. \gra e8. f16 \dblA A4~ A8. e16
       \grg f16 A8. e8. c16 \dblb b4 \grG a4
       \break
