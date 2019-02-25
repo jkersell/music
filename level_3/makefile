@@ -7,7 +7,7 @@ exercises:
 repertoire:
 	lilypond level_3_repertoire.ly
 
-level_2:
+level_3:
 	lilypond level_3.ly
 
 clean:
