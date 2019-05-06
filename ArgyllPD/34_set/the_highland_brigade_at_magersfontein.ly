@@ -18,7 +18,7 @@
       \break
       \dble e8. c16 \grG a4 \grg b8[ \grip c8]
       \dble e8 c8 \dblA A8. g16 \hdblf f4
-      \tuplet 3/2 {\grg f8. g16 A8} \hdble e8. d16 \dblc c8. \gre a16
+      \tuplet 3/2 {\grg f8. g16 A8} \hdble e8. d16 \dblc c8 \gre a8
       \grg b8. \grd c16 \grG a2
       \break
     }
@@ -33,7 +33,7 @@
       \break
       \dbld d16. c32 \grg b16. \grd c32 \grG a4 \grg b8[ \grip c8]
       \dble e8 c8 \dblA A8. g16 \hdblf f4
-      \tuplet 3/2 {\grg f8. g16 A8} \hdble e8. d16 \dblc c8. \gre a16
+      \tuplet 3/2 {\grg f8. g16 A8} \hdble e8. d16 \dblc c8 \gre a8
       \grg b8. \grd c16 \grG a2
     }
   }
@@ -42,6 +42,6 @@
     meter = "Retreat"
     title = "The Highland Brigade at Magersfontein"
     composer = "Pipe Major J. McLellan DCM"
-    comment = "The Highland Brigade suffered in this battle against the Boars, in which 'Jock' McLellan won his Distinguished Conduct Medal while serving with the Highland Light Infantry."
+    comment = "The Highland Brigade suffered in this battle against the Boers, in which 'Jock' McLellan won his Distinguished Conduct Medal while serving with the Highland Light Infantry."
   }
 }

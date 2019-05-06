@@ -19,7 +19,7 @@
       \grg f8 A8 a4 \wbirl a8 f8
       \grg f8 A8 \hdblf f8. e16 \thrwd d4
       \grg c8. d16 \dble e4 \birl a8 A8
-      \hdble e8. c16 \thrwd d4 \slurd d4
+      \hdble e8. c16 \thrwd d2
       \break
     }
 
@@ -37,13 +37,13 @@
         \grg f8 a8 \wbirl a4 \grg a8 d8
         \dbld d8 a8 \dblf f8. e16 \thrwd d4
         \grg c8. b16 \grg a4 \wbirl a8 A8
-        \hdble e8. c16 \thrwd d4 \slurd d4
+        \hdble e8. c16 \thrwd d2
         \break
       }{
         \grg f8 A8 a4 \wbirl a8 f8
         \grg f8 A8 \hdblf f8. e16 \thrwd d4
         \grg c8. d16 \dble e4 \birl a8 A8
-        \hdble e8. c16 \thrwd d4 \slurd d4
+        \hdble e8. c16 \thrwd d2
       }
     }
   }

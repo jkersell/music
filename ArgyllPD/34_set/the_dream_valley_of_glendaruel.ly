@@ -17,7 +17,7 @@
       \dblf f8 d8 \dblf f4 \dble e4
       \break
       \dblf f8. e16 \thrwd d8 f8 \birl a4
-      \dblA A8. g16 \grg f8 A8 \thrwd d4
+      \dblA A8. g16 \grA f8 A8 \thrwd d4
       \dbld d8. c16 \dblb b4 \gre G8[ \dblg g8]
       \grA e8. c16 \thrwd d2
       \break
