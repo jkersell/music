@@ -42,12 +42,6 @@
       A16 g8. f16 e8. d16 c8. b16 a8.
       \break
     }
-    \repeat volta 2 {
-      a8. b16 c4 f8. g16 f8. e16
-      d8 f8 c16 e8. A8. g16 f8 e8
-      d8. f16 e8 f8 g8. e16 c8 e8
-      f16 A8. e8. c16 b8. c16 a4
-    }
   }
 
   \header {
