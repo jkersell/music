@@ -252,7 +252,7 @@
     \repeat volta 2 {
       \grg G8 a8 b8 \grg a8 b8 c8 \grg b8 c8 d8
       \grg c8 d8 e8 \grg d8 e8 f8 \grg e8 f8 g8
-      \grg f8 g8 A8 \grg g8 f8 e8 \grg d8 e8 f8
+      \grg f8 g8 A8 g8 f8 e8 \grg d8 e8 f8
       \grg e8 f8 g8 A8 e8 d8 \grg c8 b8 a8
       \break
       \grg b8 c8 d8 \grg c8 b8 a8 \grg b8 a8 G8
@@ -260,10 +260,10 @@
       \grg c8 d8 e8 \grg a8 b8 c8 \grg b8 c8 d8
       \grg c8 d8 e8 \grg d8 e8 f8 \grg e8 f8 g8
       \break
-      A8 g8 f8 \grg g8 f8 e8 \grg f8 e8 d8
+      A8 g8 f8 g8 f8 e8 \grg f8 e8 d8
       \grg e8 d8 c8 A8 g8 f8 \grg e8 d8 c8
       \grg f8 e8 d8 \grg c8 b8 a8 \grg b8 c8 d8
-      \grg e8 f8 g8 \grg f8 e8 d8 \grg c8 b8 a8
+      \grg e8 f8 g8 f8 e8 d8 \grg c8 b8 a8
     }
   }
 
