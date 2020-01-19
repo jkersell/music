@@ -36,7 +36,7 @@
 
   \header {
     meter = "Reel"
-    title = "The Silver Speer"
+    title = "Jenny Dang the Weaver"
     arranger = "arr. MCpl Cooper & MCpl Kersell"
   }
 }
